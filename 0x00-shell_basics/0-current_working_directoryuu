@@ -1,3 +1,4 @@
 #!/bin/bash
-# my first xsript
+#My first script
 pwd 0-current_working_directory
+
