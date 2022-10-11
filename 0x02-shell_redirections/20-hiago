@@ -1,2 +1,2 @@
 #!/bin/ban
-sed -d cC
+tr -d cC
